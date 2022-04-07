@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="540" height="540" overflow="hidden" version="1.1" id="svg15" xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+   <defs id="defs5">
+      <clipPath id="clip0">
+         <rect x="2301" y="933" width="711" height="625" id="rect2" />
+      </clipPath>
+   </defs>
+   <g clip-path="url(#clip0)" transform="translate(-2403.2864,-939.16846)" id="g13">
+      <text fill="#8497b0"
+         font-family="'Source Han Sans SC Heavy', 'Source Han Sans SC Heavy_MSFontService', sans-serif"
+         font-weight="900" font-size="202px" transform="translate(2422.64,1188)" id="text11">Web<tspan fill="#fc6e5b"
+            font-size="202px" x="139.21899" y="201" id="tspan7">OS</tspan>
+         <tspan fill="#fc6e5b" font-size="134px" x="426.823" y="126" id="tspan9">+</tspan>
+      </text>
+   </g>
+</svg>

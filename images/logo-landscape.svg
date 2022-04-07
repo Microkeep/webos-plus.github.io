@@ -1,0 +1,13 @@
+<svg width="1000" height="240" overflow="hidden" xmlns="http://www.w3.org/2000/svg">
+   <defs>
+      <clipPath id="prefix__a">
+         <path d="M1729 611h1017v424H1729z" />
+      </clipPath>
+   </defs>
+   <g clip-path="url(#prefix__a)" transform="matrix(1.19744 0 0 1.19744 -2201.648 -818.54)"><text fill="#8497b0"
+         font-family="'Source Han Sans SC Heavy', 'Source Han Sans SC Heavy_MSFontService', sans-serif"
+         font-weight="900" font-size="202" transform="translate(1850.92 866)">Web<tspan fill="#fc6e5b" x="441.719"
+            y="0">OS</tspan>
+         <tspan fill="#fc6e5b" font-size="134" x="729.323" y="-75">+</tspan>
+      </text></g>
+</svg>
